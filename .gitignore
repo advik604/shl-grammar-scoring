@@ -1,0 +1,14 @@
+# Audio and tabular data files
+*.wav
+*.csv
+data/
+outputs/
+
+# Python cache & Jupyter checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment and secret keys
+.env
+*.key
